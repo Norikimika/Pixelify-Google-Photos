@@ -1,18 +1,11 @@
 # Pixelify-Google-Photos
 
-⚠️⚠️ This project is EOL. I have entirely stopped using Google Photos. Sorry for the inconvenience. ⚠️⚠️
-
 LSPosed / EdXposed module to add Google Pixel features on Google Photos for any device.  
-Tested on EdXposed by [Jim Wu](https://github.com/MlgmXyysd)  
-
-[LSPosed module repo](https://github.com/Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos.git)  
-[Development repo](https://github.com/BaltiApps/Pixelify-Google-Photos.git)  
-
-[Telegram group link](https://t.me/pixelifyGooglePhotos)  
+Tested on LSPosed by [JingMatrix](https://github.com/JingMatrix/LSPosed)  
 
 ### Steps to use:
-1. Install Magisk, [LSPosed](https://github.com/LSPosed/LSPosed) Or [EdXposed](https://github.com/ElderDrivers/EdXposed).  
-2. Install the apk of this app (available from [Releases](https://github.com/BaltiApps/Pixelify-Google-Photos/releases) page.)  
+1. Install Magisk/KSU, [LSPosed](https://github.com/LSPosed/LSPosed) Or [EdXposed](https://github.com/ElderDrivers/EdXposed).  
+2. Install the apk of this app (available from [Releases](https://github.com/Norikimika/Pixelify-Google-Photos/releases) page.)  
 3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.  
 4. Reboot. Enjoy. (If needed, you might need to clear data of Google Photos app).  
 
